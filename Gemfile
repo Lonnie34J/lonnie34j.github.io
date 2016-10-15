@@ -5,3 +5,7 @@ gem "minima"
 gem "octopress-paginate"
 gem "octopress-hooks", git: 'https://github.com/octopress/hooks.git'
 gem "jekyll-seo-tag"
+gem "jekyll-paginate"
+gem "jekyll-feed"
+gem "jekyll"
+gem "pages-gem"

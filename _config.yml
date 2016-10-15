@@ -14,13 +14,13 @@ highlighter: rouge
 theme: minima
 
 # Blog information
-title: mlibre personal blog
+title: lonnie34j personal blog
 description: >
     Here is my personal blog(mlibre). I write about everything, about Linux, about world, about goodness, about ...
     In this blog you will find Tutorials, Education texts, Academic things and ...
-email: m.gh@linuxmail.org
+email: lonnie34j@gmail.com
 author: I like To live as Free & OpenSource, Make world better place, ....
-github_username: mlibre
+github_username: lonnie34j
 favicon: /files/images/favicon.png
 
 # My image folder
